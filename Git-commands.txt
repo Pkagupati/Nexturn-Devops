@@ -1,0 +1,25 @@
+															Git Commands
+
+
+1 : git --version > It tells what git verison we are using.
+
+2 : git init > It initialize the folder.
+
+3 : git config --global user.name "your name" > lets you to set a name 
+
+4 : git config --global user.email "your email" > lets you to set email
+
+5 : git add : it adds our file to local repo
+
+6 : git status : it tells the status of our file wheather it commited or not
+
+7 : git diff : tells the differece between changes in the file
+
+8 : git commit -m "any-messege" filename : it commits the file with a message.
+
+9 : git diff -- staged filename : it tells the diff between last commited files.
+
+10 : git clone repo link : it makes a clone of remote repo in local repo.
+
+11 : git push : push our files from local to remote repo
+
